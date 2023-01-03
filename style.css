@@ -364,17 +364,6 @@ canvas {
   font-family: "Jost", sans-serif;
   transition: 0.3s;
 }
-.player{
-    position: absolute;
-    z-index: 999;
-    display: flex;
-    justify-content: center;
-    align-items: end;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    top: 0;
-  }
   
   #autoplay{
     width: 300px;
